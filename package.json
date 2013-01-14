@@ -1,0 +1,21 @@
+{
+  "name": "numbering",
+  "version": "0.0.1",
+  "description": "Show number in the different way.",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:goonnow/numbering.git"
+  },
+  "keywords": [
+    "number"
+  ],
+  "author": "Pattarawat Chormai",
+  "license": "BSD"
+}
